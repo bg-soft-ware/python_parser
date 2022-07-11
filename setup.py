@@ -3,11 +3,6 @@
 from setuptools import find_packages, setup
 
 setup(
-    name='supar',
-    version='1.1.4',
-    author='Yu Zhang',
-    author_email='yzhang.cs@outlook.com',
-    license='MIT',
     description='Syntactic/Semantic Parsing Models',
     long_description=open('README.md', 'r').read(),
     long_description_content_type='text/markdown',
